@@ -1,6 +1,6 @@
 {
-    "name": "surya/sample",
-    "description": "A Laravel Nova tool.",
+    "name": "suryachauhan55/sample",
+    "description": "A Laravel Nova tool, to show currency list conversion",
     "keywords": [
         "laravel",
         "nova"
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Surya\\Sample\\": "src/"
+            "Suryachauhan55\\Sample\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Surya\\Sample\\ToolServiceProvider"
+                "Suryachauhan55\\Sample\\ToolServiceProvider"
             ]
         }
     },
